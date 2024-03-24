@@ -2,9 +2,7 @@
 
 Hi! Check out my Streamlit app. This is a preview of the wonders in store for anyone lucky enough to have the skills and desire to run this app on their machine:
 
-<div style="border: 1px solid black; padding: 5px;">
-  ![Streamlit Preview](https://github.com/jedediahmadsen/real-estate-dashboard/blob/main/img/streamlit_preview.png)
-</div>
+![Streamlit Preview](img/streamlit_preview.png)
 
 All you have to do is download or clone this repository to your local machine. You will need to have [Python](https://www.python.org/downloads/) and [Streamlit](https://docs.streamlit.io/get-started/installation) installed on your machine as well. If you don't already have them, follow the links and install them. 
 
