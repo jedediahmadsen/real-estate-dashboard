@@ -4,7 +4,7 @@ Hi! Check out my Streamlit app. This is a preview of the wonders in store for an
 
 ![Streamlit Preview](img/streamlit_preview.png)
 
-All you have to do is download or clone this repository to your local machine. You will need to have (Python)[https://www.python.org/downloads/] and (Streamlit)[https://docs.streamlit.io/get-started/installation] installed on your machine as well. If you don't already have them, follow the links and install them. 
+All you have to do is download or clone this repository to your local machine. You will need to have [Python](https://www.python.org/downloads/) and [Streamlit](https://docs.streamlit.io/get-started/installation) installed on your machine as well. If you don't already have them, follow the links and install them. 
 
 Using your command line interface, navigate to this repository and enter the command:
 
